@@ -77,8 +77,8 @@
 ###
 <br clear="both">
 
-![Pacman](https://raw.githubusercontent.com/mohamed5580/mohamed5580/main/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman](https://raw.githubusercontent.com/mohamed5580/mohamed5580/main/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/pacman.svg" alt=""  />
+</div>
 
 ###
