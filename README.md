@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software Engineer & Full Stack Devoloper</h3>
+<h3 align="center">Software Engineer & Full Stack Developer</h3>
 
 ###
 
